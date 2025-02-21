@@ -37,3 +37,7 @@
 ### Get Slot Number by Registration Number
 - **GET** `parking-lot/slot_number/:car_registration_no`
 - **Response**: `1`
+
+
+# Project includes unit tests, you can run them to ensure everything is working as Expected:
+**- npm run test**
